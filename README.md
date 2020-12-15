@@ -3,6 +3,7 @@
 
 ## 快速使用
 ```bash
+git clone https://github.com/evling2020/kodbox.git
 docker-compose build
 docker-compose up -d
 ```
